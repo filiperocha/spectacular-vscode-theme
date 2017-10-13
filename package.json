@@ -1,0 +1,22 @@
+{
+    "name": "spectacular",
+    "displayName": "Spectacular",
+    "description": "Spectacular theme",
+    "version": "0.0.1",
+    "publisher": "ripnix",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Spectacular",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Spectacular-color-theme.json"
+            }
+        ]
+    }
+}
